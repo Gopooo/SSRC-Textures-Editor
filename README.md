@@ -1,6 +1,6 @@
 # SSCR Textures Editor
 
-A community modding tool for **Skylanders SuperChargers Racing** that makes texture modding easier.
+A community modding tool for **Skylanders Superchargers Racing** that makes texture modding easier.
 
 The tool provides a simple graphical interface for finding, previewing, exporting, and replacing textures stored inside the game's `.pkz` files.
 

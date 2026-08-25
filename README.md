@@ -103,7 +103,7 @@ CMPR uses 8x8 "super blocks" made of four 4x4 DXT1 sub-blocks (TL, TR, BL, BR or
 
 This project would have been much harder to develop without the existing work and research of the Skylanders modding community.
 
-Special thanks to **maff** from the **Skylanders Reverse Engineering Discord server**. His **Cogwheel** tool was extremely helpful for understanding and inspecting the game's PKZ resource structure, including chunks, resource data, and the way game assets are stored.
+Special thanks to maff [spyrosadventure](https://github.com/spyrosadventure) for Cogwheel and reverse-engineering assistance. from the **Skylanders Reverse Engineering Discord server**. His **Cogwheel** tool was extremely helpful for understanding and inspecting the game's PKZ resource structure, including chunks, resource data, and the way game assets are stored.
 
 Thanks to everyone in the Skylanders reverse-engineering and modding communities who has documented the game formats, experimented with the files, and shared their findings.
 
